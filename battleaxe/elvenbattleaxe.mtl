@@ -1,0 +1,26 @@
+
+newmtl Material_000001
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+d 1
+Ns 33
+map_Kd BloodEdge01.png
+
+newmtl Material_0000fe
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+d 1
+Ns 500
+map_Kd BloodEdge01Add.png
+map_Kn BloodEdge01_n.png
+
+newmtl Material_0001fb
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.976473 0.905885 0.717647
+d 1
+Ns 100
+map_Kd ElvenBattleAxe.png
+map_Kn ElvenBattleAxe_N.png
