@@ -3118,14 +3118,8 @@ Transform:
   - {fileID: 1946938601}
   - {fileID: 1073283855}
   - {fileID: 1855550749}
-  - {fileID: 1385293070}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0.068, y: 0.138, z: -0.162}
---- !u!4 &1385293070 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: bcabe5ecce2644511a3bf9dbcf3ec8c6, type: 3}
-  m_PrefabInstance: {fileID: 1711589992}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1404144065 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 0156b06f6f81749aaaf97be97791521e, type: 3}
@@ -4190,79 +4184,6 @@ Transform:
   - {fileID: 779595376}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1001 &1711589992
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 1372889947}
-    m_Modifications:
-    - target: {fileID: -8679921383154817045, guid: bcabe5ecce2644511a3bf9dbcf3ec8c6, type: 3}
-      propertyPath: m_LocalScale.x
-      value: 0.50094056
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: bcabe5ecce2644511a3bf9dbcf3ec8c6, type: 3}
-      propertyPath: m_LocalScale.y
-      value: 0.6539879
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: bcabe5ecce2644511a3bf9dbcf3ec8c6, type: 3}
-      propertyPath: m_LocalScale.z
-      value: 0.5064125
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: bcabe5ecce2644511a3bf9dbcf3ec8c6, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -89.08
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: bcabe5ecce2644511a3bf9dbcf3ec8c6, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 33.37201
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: bcabe5ecce2644511a3bf9dbcf3ec8c6, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 4.04
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: bcabe5ecce2644511a3bf9dbcf3ec8c6, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 0.8764976
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: bcabe5ecce2644511a3bf9dbcf3ec8c6, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0.12059492
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: bcabe5ecce2644511a3bf9dbcf3ec8c6, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0.46582615
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: bcabe5ecce2644511a3bf9dbcf3ec8c6, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0.014656235
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: bcabe5ecce2644511a3bf9dbcf3ec8c6, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: -13.006
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: bcabe5ecce2644511a3bf9dbcf3ec8c6, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 56.56
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: bcabe5ecce2644511a3bf9dbcf3ec8c6, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: -5.103
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: bcabe5ecce2644511a3bf9dbcf3ec8c6, type: 3}
-      propertyPath: m_ConstrainProportionsScale
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 919132149155446097, guid: bcabe5ecce2644511a3bf9dbcf3ec8c6, type: 3}
-      propertyPath: m_Name
-      value: SpiderRunner
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: bcabe5ecce2644511a3bf9dbcf3ec8c6, type: 3}
 --- !u!1001 &1724246477
 PrefabInstance:
   m_ObjectHideFlags: 0
